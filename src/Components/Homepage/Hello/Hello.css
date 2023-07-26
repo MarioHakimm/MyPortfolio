@@ -1,0 +1,14 @@
+#intro {
+    max-width: 1000px;
+    padding: 0rem 2rem;
+}
+
+.cdiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#mypic {
+    margin-top: 10px;
+}
